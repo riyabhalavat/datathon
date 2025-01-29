@@ -7,13 +7,13 @@
    - The website was developed using React.js with a focus on **animations, UI aesthetics, and a smooth user interface**.  
 
 2. Pages in the Website 
-   - **Overview Page: Displays the best-performing startups.  
-   - **Sector-Wise Distribution: Visualizes **funding distribution across various sectors.  
-   - **Highest Funding Page: Highlights startups with the highest funding amounts.  
-   - **Settings Page: Allows user customization (currently populated with dummy data).  
-   - **User Page: Displays user-related data.  
-   - **Sales Page: Includes various graphs showing funding trends and financial insights.  
-   - **Investor Details Page: Showcases investor information (dummy data for now).  
+   - Overview Page: Displays the best-performing startups.  
+   - Sector-Wise Distribution: Visualizes funding distribution across various sectors.  
+   - Highest Funding Page: Highlights startups with the highest funding amounts.  
+   - Settings Page: Allows user customization (currently populated with dummy data).  
+   - User Page: Displays user-related data.  
+   - Sales Page: Includes various graphs showing funding trends and financial insights.  
+   - Investor Details Page: Showcases investor information (dummy data for now).  
 
 3. CSS Functions Used for Aesthetics & Animations
    - `transition` (Smooth hover effects)  
